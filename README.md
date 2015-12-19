@@ -1,7 +1,7 @@
 Petclinic Sample Application
 ============================
 
-This is the standard introductory sample application for Grails. To get started with it, simply clone the repository and then from within your local copy run:
+#This is the standard introductory sample application for Grails. To get started with it, simply clone the repository and then from within your local copy run:
 
     ./gradlew run
 
